@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Jetpack Compose & KMP**
 
-- 👨‍💻 All of my projects are available at https://youtube.com/@android_knowledge](https://youtube.com/@android_knowledge)
+- 👨‍💻 All of my projects are available at [https://youtube.com/@android_knowledge/](https://youtube.com/@android_knowledge/)
 
-- 📝 I write articles on [http://www.androidknowledge.com/](http://www.androidknowledge.com/)
+- 📝 I write articles on [https://www.androidknowledge.com/](https://www.androidknowledge.com/)
 
 - 📫 How to reach me **@android_knowledge**
 
