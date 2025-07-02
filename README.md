@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose & KMP**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCdEWsSKNqogLmEQR1k6FvLA](https://www.youtube.com/channel/UCdEWsSKNqogLmEQR1k6FvLA)
+- 👨‍💻 All of my projects are available at https://youtube.com/@android_knowledge](https://youtube.com/@android_knowledge)
 
 - 📝 I write articles on [http://www.androidknowledge.com/](http://www.androidknowledge.com/)
 
