@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Android Knowledge</h1>
 <h3 align="center">Android App Developer</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose & KMM**
+- 🌱 I’m currently learning **Jetpack Compose & KMP**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCdEWsSKNqogLmEQR1k6FvLA](https://www.youtube.com/channel/UCdEWsSKNqogLmEQR1k6FvLA)
 
